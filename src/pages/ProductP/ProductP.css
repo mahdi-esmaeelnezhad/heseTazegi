@@ -1,0 +1,23 @@
+.bodyProduct{
+    /* position: absolute;
+    top:40%; */
+    display: flex;
+    flex-direction:column ;
+    
+}
+.btnProduct{
+    position: absolute;
+    /* top:40%; */
+    background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:15px;
+    min-height:30px; 
+    min-width: 120px;
+    text-decoration: none;
+}
+.back{
+    text-decoration: none;
+    
+}
